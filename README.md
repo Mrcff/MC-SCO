@@ -43,19 +43,6 @@ Possuo experiência em desenvolvimento front-end, com atuação na atualização
 Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar soluções que otimizem processos e apoiem a tomada de decisão.
 
 ---
-
-## Sobre mim 
-
-Sou Márcia Ramos, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela UFPR. Atualmente, atuo como assistente financeira júnior com foco em análise de dados.
-
-Minha trajetória na UFPR começou no curso de Informática Biomédica, onde tive meu primeiro contato com tecnologia e desenvolvimento. Ao longo do tempo, fui direcionando meus interesses para uma área mais prática e voltada ao desenvolvimento de sistemas, o que me levou à transição para Análise e Desenvolvimento de Sistemas.
-
-Possuo experiência em desenvolvimento front-end, com atuação na atualização de interfaces utilizando React. Destaco também minha trajetória na Ecomp (Empresa Júnior de Computação da UFPR), onde atuei nas áreas de gestão de projetos e desenvolvimento humano, trabalhando com organização de projetos, capacitações internas e acompanhamento do desenvolvimento dos membros.
-
-Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar soluções que otimizem processos e apoiem a tomada de decisão.
-
----
-
 <table>
 <tr>
 
@@ -68,8 +55,6 @@ Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar solu�
 <td align="left">
 
 📧 **Email:** marciakamila@ufpr.br  
-<br><br>
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541999918762)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrcyff/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrcyff/)
