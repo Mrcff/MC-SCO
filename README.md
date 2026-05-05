@@ -57,7 +57,7 @@ Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar solu�
 
 <td align="left">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciakamila@ufpr.br?subject=Contato&body=Olá%20Márcia,%20tudo%20bem?%0A%0ASou%20[seu%20nome]%20e%20gostaria%20de%20falar%20com%20você%20sobre%20[assunto].%0A%0AAguardo%20retorno.%0A%0AAtenciosamente,%0A[seu%20nome])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciakamila@ufpr.br?subject=Contato&body=Ola%20Marcia,%20tudo%20bem?%0A%0ASou%20[seu%20nome]%20e%20gostaria%20de%20falar%20com%20voce%20sobre%20[assunto].%0A%0AAguardo%20retorno.%0A%0AAtenciosamente,%0A[seu%20nome])
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrcyff/)
 
