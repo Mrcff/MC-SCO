@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ## Sobre mim 
@@ -10,3 +11,23 @@ Minha trajetória na UFPR começou no curso de Informática Biomédica, onde tiv
 Possuo experiência em desenvolvimento front-end, com atuação na atualização de interfaces utilizando React. Destaco também minha trajetória na Ecomp (Empresa Júnior de Computação da UFPR), onde atuei nas áreas de gestão de projetos e desenvolvimento humano, trabalhando com organização de projetos, capacitações internas e acompanhamento do desenvolvimento dos membros.
 
 Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar soluções que otimizem processos e apoiem a tomada de decisão.
+=======
+## 📌 Sobre
+Este projeto tem como objetivo desenvolver um site com foco em organização e apresentação de informações.
+
+## 🚀 Funcionalidades
+- Página inicial
+- Seção de notícias
+- Navegação simples
+- Layout responsivo
+
+## 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
+- GitHub
+
+## 📂 Estrutura
+- index.html
+- style.css
+>>>>>>> 0f72ac8a77dc53115a8cf7b42cf08ae33cfe4603
