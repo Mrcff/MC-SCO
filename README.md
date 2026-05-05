@@ -40,7 +40,7 @@ Este minicurso é uma introdução prática ao desenvolvimento web, organizado e
 <tr>
 <td width="130" valign="top">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQFSnBlKt45OgQ/profile-displayphoto-scale_200_200/B4DZvPlxtUJMAY-/0/1768714346863?e=1779321600&v=beta&t=P0aFCI-74MvWDl_FaWX9HtNeaW7iSxoJMgDD1a1Tbf4" 
+<img src="EU.png" 
      width="110" 
      style="border-radius: 50%;" />
 
