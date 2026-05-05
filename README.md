@@ -42,13 +42,13 @@ Este minicurso é uma introdução prática ao desenvolvimento web, organizado e
 
 <img src="imgs\eudeoculos.jpeg" 
      width="110" 
-     style="border-radius: 50%;" />
+     style="border-radius: 100%;" />
  <img src="imgs\LKD.jpg" 
      width="110" 
-     style="border-radius: 50%;" />
+     style="border-radius: 100%;" />
  <img src="imgs\instagram.png" 
      width="110" 
-     style="border-radius: 50%;" />
+     style="border-radius: 100%;" />
   
 
 
