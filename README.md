@@ -43,6 +43,8 @@ Possuo experiência em desenvolvimento front-end, com atuação na atualização
 Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar soluções que otimizem processos e apoiem a tomada de decisão.
 
 ---
+<div align="center">
+
 <table>
 <tr>
 
@@ -63,3 +65,5 @@ Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar solu�
 
 </tr>
 </table>
+
+</div>
