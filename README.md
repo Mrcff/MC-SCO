@@ -34,7 +34,41 @@ Este minicurso é uma introdução prática ao desenvolvimento web, organizado e
 
   
 
-## Sobre mim 
+# 💻 Minicurso de HTML, CSS e Git
+
+Este minicurso é uma introdução prática ao desenvolvimento web, organizado em etapas para facilitar o aprendizado:
+
+### 1. Ambiente de desenvolvimento
+- Instalação e configuração do VS Code  
+- Extensões essenciais  
+- Criação do primeiro projeto  
+
+### 2. HTML (Estrutura da página)
+- Estrutura básica de um arquivo HTML  
+- Principais tags  
+- Organização do conteúdo  
+
+### 3. CSS (Estilização)
+- Como conectar o CSS ao HTML  
+- Sintaxe básica  
+- Cores, textos e fontes  
+- Classes e IDs  
+- Espaçamento  
+- Noções de layout  
+
+### 4. Git e GitHub
+- Instalação e configuração do Git  
+- Versionamento de código  
+- Criação de repositório  
+- Envio do projeto para o GitHub  
+
+### 5. Prática
+- Pequenos desafios ao longo do curso  
+- Criação de uma página simples aplicando os conceitos aprendidos  
+
+---
+
+## 👩🏽‍💻 Sobre mim 
 
 Sou Márcia Ramos, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela UFPR. Atualmente, atuo como assistente financeira júnior com foco em análise de dados.
 
@@ -45,6 +79,8 @@ Possuo experiência em desenvolvimento front-end, com atuação na atualização
 Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar soluções que otimizem processos e apoiem a tomada de decisão.
 
 ---
+
+## 📬 Contato
 
 <table>
 <tr>
@@ -57,7 +93,7 @@ Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar solu�
 
 <td align="left">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciakamila@ufpr.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciakamila@ufpr.br?subject=Contato&body=Olá%20Márcia,%20tudo%20bem?%0A%0ASou%20[seu%20nome]%20e%20gostaria%20de%20falar%20com%20você%20sobre%20[assunto].%0A%0AAguardo%20retorno.%0A%0AAtenciosamente,%0A[seu%20nome])
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrcyff/)
 
