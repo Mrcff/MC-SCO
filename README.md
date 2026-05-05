@@ -32,6 +32,16 @@ Este minicurso é uma introdução prática ao desenvolvimento web, organizado e
 
 ---
 
+<div align="center">
+
+### 🔗 Acesse o roadmap do minicurso
+
+[![Roadmap](https://img.shields.io/badge/Visualizar%20Roadmap-6C63FF?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/r/infra-site-student-chapter)
+
+</div>
+
+---
+
 ## 👩🏽‍💻 Sobre mim 
 
 Sou Márcia Ramos, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela UFPR. Atualmente, atuo como assistente financeira júnior com foco em análise de dados.
