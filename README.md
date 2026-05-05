@@ -1,39 +1,3 @@
-## Minicurso de HTML, CSS e Git
-
-Este minicurso é uma introdução prática ao desenvolvimento web, organizado em etapas para facilitar o aprendizado:
-
-### 1. Ambiente de desenvolvimento
-- Instalação e configuração do VS Code  
-- Extensões essenciais  
-- Criação do primeiro projeto  
-
-### 2. HTML (Estrutura da página)
-- Estrutura básica de um arquivo HTML  
-- Principais tags 
-- Organização do conteúdo  
-
-### 3. CSS (Estilização)
-- Como conectar o CSS ao HTML  
-- Sintaxe básica  
-- Cores, textos e fontes  
-- Classes e IDs  
-- Espaçamento  
-- Noções de layout  
-
-### 4. Git e GitHub
-- Instalação e configuração do Git  
-- Versionamento de código   
-- Criação de repositório  
-- Envio do projeto para o GitHub  
-
-### 5. Prática
-- Pequenos desafios ao longo do curso  
-- Criação de uma página simples aplicando os conceitos aprendidos  
-
----
-
-  
-
 # 💻 Minicurso de HTML, CSS e Git
 
 Este minicurso é uma introdução prática ao desenvolvimento web, organizado em etapas para facilitar o aprendizado:
