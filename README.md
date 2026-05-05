@@ -40,17 +40,17 @@ Este minicurso é uma introdução prática ao desenvolvimento web, organizado e
 <tr>
 <td width="130" valign="top">
 
-<img src="imgs\eudeoculos.jpeg" 
+<img src="imgs/eudeoculos.jpeg" 
      width="110" 
-     style="border-radius: 100%;" />
- <img src="imgs\LKD.jpg" 
-     width="110" 
-     style="border-radius: 100%;" />
- <img src="imgs\instagram.png" 
-     width="110" 
-     style="border-radius: 100%;" />
-  
+     style="border-radius: 50%;" />
 
+<br><br>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciakamila@ufpr.br)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrcyff/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrcyff/)
 
 </td>
 
