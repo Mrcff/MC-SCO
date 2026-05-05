@@ -1,4 +1,37 @@
-<<<<<<< HEAD
+## Minicurso de HTML, CSS e Git
+
+Este minicurso é uma introdução prática ao desenvolvimento web, organizado em etapas para facilitar o aprendizado:
+
+### 1. Ambiente de desenvolvimento
+- Instalação e configuração do VS Code  
+- Extensões essenciais  
+- Criação do primeiro projeto  
+
+### 2. HTML (Estrutura da página)
+- Estrutura básica de um arquivo HTML  
+- Principais tags 
+- Organização do conteúdo  
+
+### 3. CSS (Estilização)
+- Como conectar o CSS ao HTML  
+- Sintaxe básica  
+- Cores, textos e fontes  
+- Classes e IDs  
+- Espaçamento  
+- Noções de layout  
+
+### 4. Git e GitHub
+- Instalação e configuração do Git  
+- Versionamento de código   
+- Criação de repositório  
+- Envio do projeto para o GitHub  
+
+### 5. Prática
+- Pequenos desafios ao longo do curso  
+- Criação de uma página simples aplicando os conceitos aprendidos  
+
+---
+
 
 
 ## Sobre mim 
@@ -11,23 +44,3 @@ Minha trajetória na UFPR começou no curso de Informática Biomédica, onde tiv
 Possuo experiência em desenvolvimento front-end, com atuação na atualização de interfaces utilizando React. Destaco também minha trajetória na Ecomp (Empresa Júnior de Computação da UFPR), onde atuei nas áreas de gestão de projetos e desenvolvimento humano, trabalhando com organização de projetos, capacitações internas e acompanhamento do desenvolvimento dos membros.
 
 Tenho grande interesse em unir tecnologia e dados, buscando sempre aplicar soluções que otimizem processos e apoiem a tomada de decisão.
-=======
-## 📌 Sobre
-Este projeto tem como objetivo desenvolver um site com foco em organização e apresentação de informações.
-
-## 🚀 Funcionalidades
-- Página inicial
-- Seção de notícias
-- Navegação simples
-- Layout responsivo
-
-## 🛠️ Tecnologias
-- HTML
-- CSS
-- JavaScript
-- GitHub
-
-## 📂 Estrutura
-- index.html
-- style.css
->>>>>>> 0f72ac8a77dc53115a8cf7b42cf08ae33cfe4603
